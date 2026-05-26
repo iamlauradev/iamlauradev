@@ -2,70 +2,114 @@
 
 # Laura Linares
 
-**Sysadmin & Infrastructure · ASIR · Granada, Spain**
+**Sysadmin & Infrastructure · Linux · Automation · DevOps mindset · Granada, Spain**
 
-![Open to work](https://img.shields.io/badge/Open%20to%20work-0550ae?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-116329?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-116329?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-953800?style=flat-square&logo=proxmox&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-6e40c9?style=flat-square)
-![English B2→C1](https://img.shields.io/badge/English-B2%20→%20C1-7d4e00?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Open%20to%20work-Full%20Time-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-116329?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-116329?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-953800?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-6e40c9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p>
+  <em>
+    Building reliable systems, automating workflows, and learning something new every day.
+  </em>
+</p>
 
 </div>
 
 ---
 
-## About
+## About me
 
-| | |
-|---|---|
-| **Currently** | 2nd year ASIR + internship in IT infrastructure |
-| **Focus** | Container orchestration, automation & monitoring |
-| **Also into** | Storytelling & creative writing |
-| **Goal** | First role in IT ops / sysadmin after graduating |
+- ASIR graduate focused on systems administration and infrastructure
+- Passionate about Linux, self-hosting, automation, and observability
+- Interested in containerized environments and reliable infrastructure design
+- Currently open to full-time opportunities in IT operations, systems, or infrastructure
 
 ---
 
-## Featured — workflow automation project
+## Featured project
 
-> **Document ingestion & analytics pipeline**
->
-> Designed and deployed a fully automated document processing workflow: capture, classification, structured storage and live dashboard — entirely self-hosted.
-> Paperless-ngx → n8n → NocoDB → Metabase
+### Document ingestion & analytics pipeline
+
+> Fully automated document processing workflow: capture, classification, structured storage, and live analytics dashboard — entirely self-hosted.
+
+**Stack**  
+`Paperless-ngx` `n8n` `NocoDB` `Metabase`
+
+**Highlights**
+- Automated document capture and classification
+- Structured database storage
+- Self-hosted analytics dashboards
+- End-to-end workflow automation
 
 ---
 
-## Skills
+## Tech stack
 
-**Infrastructure & virtualisation**
+### Infrastructure & virtualization
 `Linux (Debian)` `Proxmox VE` `VM provisioning` `MikroTik RouterOS`
 
-**Containers & networking**
-`Docker & Compose` `Traefik (reverse proxy)` `Internal DNS` `TCP/IP · DHCP · VLANs`
+### Containers & networking
+`Docker & Compose` `Traefik` `Internal DNS` `TCP/IP` `DHCP` `VLANs`
 
-**Automation & data**
-`Workflow automation (n8n)` `Relational databases (MySQL · NocoDB)` `Data visualisation (Metabase)` `Document management (Paperless)`
+### Automation & data
+`n8n` `MySQL` `NocoDB` `Metabase` `Paperless-ngx`
 
-**Observability**
-`Service monitoring & alerting` `Log management` `Uptime & health checks`
+### Observability
+`Monitoring` `Alerting` `Logging` `Uptime checks`
 
-**Dev & scripting**
-`Bash` `HTML5 + CSS3` `MySQL` `Python` `Windows Server`
+### Dev & scripting
+`Bash` `Python` `HTML5` `CSS3` `MySQL` `Windows Server`
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamlauradev&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlauradev&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=iamlauradev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
+  
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlauradev&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=iamlauradev&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=iamlauradev&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iamlauradev&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
 ## Contact
 
-✉ lauralinarescontacto@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/lauralinareslopez) &nbsp;|&nbsp; Portfolio — coming soon
+✉️ **lauralinarescontacto@gmail.com**  
+
+🔗 LinkedIn  
+https://linkedin.com/in/lauralinareslopez
+
+🌐 Portfolio — coming soon
 
 ---
 
