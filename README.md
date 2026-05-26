@@ -22,7 +22,7 @@
 ## About me
 
 - ASIR graduate, GPA 10/10 — just finished my degree, looking for my first full-time role
-- Last 3 months: built production-grade self-hosted infrastructure at [Cívica Software](https://civica.com) — MikroTik VLANs, Proxmox, WireGuard, Zitadel SSO, 15+ Docker services
+- Last 3 months: built production-grade self-hosted infrastructure at [Cívica Software](https://civica-soft.com/) — MikroTik VLANs, Proxmox, WireGuard, Zitadel SSO, 15+ Docker services
 - Final project: [BATS](https://github.com/iamlauradev/bats), a passive Bluetooth attendance system running on Raspberry Pi — zero false positives in real-world testing
 - Background in humanities before IT — I write clear documentation and explain things without assuming everyone's an engineer
 
