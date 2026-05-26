@@ -13,11 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p>
-  <em>
-    Building reliable systems, automating workflows, and learning something new every day.
-  </em>
-</p>
+<p><em>Building reliable systems, automating workflows, and learning something new every day.</em></p>
 
 </div>
 
@@ -25,73 +21,66 @@
 
 ## About me
 
-- ASIR graduate focused on systems administration and infrastructure
-- Passionate about Linux, self-hosting, automation, and observability
-- Interested in containerized environments and reliable infrastructure design
-- Currently open to full-time opportunities in IT operations, systems, or infrastructure
+- ASIR graduate, GPA 10/10 — just finished my degree, looking for my first full-time role
+- Last 3 months: built production-grade self-hosted infrastructure at [Cívica Software](https://civica.com) — MikroTik VLANs, Proxmox, WireGuard, Zitadel SSO, 15+ Docker services
+- Final project: [BATS](https://github.com/iamlauradev/bats), a passive Bluetooth attendance system running on Raspberry Pi — zero false positives in real-world testing
+- Background in humanities before IT — I write clear documentation and explain things without assuming everyone's an engineer
 
 ---
 
 ## Featured project
 
-### Document ingestion & analytics pipeline
+### [BATS — Bluetooth-Based Tracking System](https://github.com/iamlauradev/bats)
 
-> Fully automated document processing workflow: capture, classification, structured storage, and live analytics dashboard — entirely self-hosted.
+> Automatic school attendance detection via passive Bluetooth scanning. No pairing, no open ports, privacy-first design.
 
 **Stack**  
-`Paperless-ngx` `n8n` `NocoDB` `Metabase`
+`Python` `Flask` `MariaDB` `Docker Compose` `Raspberry Pi`
 
 **Highlights**
-- Automated document capture and classification
-- Structured database storage
-- Self-hosted analytics dashboards
-- End-to-end workflow automation
+
+- Passive scan: reads Bluetooth device names from pre-registered MACs — students don't interact with anything
+- Dual detection with fallback: L2CAP socket (primary) + PyBluez (backup)
+- Detection time: 0.15 s best case, 6.65 s worst case — zero false positives in real testing
+- Privacy by design: all data stays local on the Pi, no cloud, no open ports (Cloudflare Tunnel)
+- Full stack: Flask backend with auth + rate limiting, MariaDB with raw SQL, vanilla JS frontend, 4-container Compose deploy
 
 ---
 
 ## Tech stack
 
-### Infrastructure & virtualization
-`Linux (Debian)` `Proxmox VE` `VM provisioning` `MikroTik RouterOS`
+### Infrastructure & virtualisation
+`Linux (Debian/Ubuntu)` `Proxmox VE` `MikroTik RouterOS` `Windows Server`
 
 ### Containers & networking
-`Docker & Compose` `Traefik` `Internal DNS` `TCP/IP` `DHCP` `VLANs`
+`Docker & Compose` `Traefik` `WireGuard` `VLANs` `DHCP` `iptables`
+
+### Security & identity
+`CrowdSec` `Zitadel (SSO/IdP)` `Cloudflare Zero Trust` `zero-trust architecture`
 
 ### Automation & data
-`n8n` `MySQL` `NocoDB` `Metabase` `Paperless-ngx`
-
-### Observability
-`Monitoring` `Alerting` `Logging` `Uptime checks`
+`n8n` `Paperless-ngx` `NocoDB` `Metabase` `MariaDB` `PostgreSQL`
 
 ### Dev & scripting
-`Bash` `Python` `HTML5` `CSS3` `MySQL` `Windows Server`
+`Python` `Bash` `SQL` `Flask` `HTML/CSS`
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=iamlauradev&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://streak-stats.demolab.com?user=iamlauradev&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=iamlauradev&theme=tokyo-night&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamlauradev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
 
-✉️ **lauralinarescontacto@gmail.com**  
-
-🔗 LinkedIn  
-https://linkedin.com/in/lauralinareslopez
-
-🌐 Portfolio — coming soon
+✉️ **[lauralinarescontacto@gmail.com](mailto:lauralinarescontacto@gmail.com)**  
+🔗 **[linkedin.com/in/lauralinareslopez](https://linkedin.com/in/lauralinareslopez)**
 
 ---
 
